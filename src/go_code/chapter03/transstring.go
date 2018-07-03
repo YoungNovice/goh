@@ -7,15 +7,9 @@ import (
 
 // 基本类型根string相互转
 // 重点 
-
-/*
-	方法一：
-
-	方法二：
-*/
-
 func main() {
-	typeToString()
+	// typeToString()
+	typeToString2()
 }
 
 // 基本类型转string 可用fmt包下面的Sprintf函数实现
